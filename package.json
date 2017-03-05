@@ -1,6 +1,6 @@
 {
   "name": "mora-bot-data",
-  "version": "0.247.0",
+  "version": "0.248.0",
   "description": "",
   "main": "data/meta.json",
   "scripts": {},
